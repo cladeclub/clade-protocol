@@ -1,1 +1,1 @@
-# zkclade
+# clade protocol
